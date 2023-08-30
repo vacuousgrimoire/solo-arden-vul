@@ -1,0 +1,1 @@
+A loose tunic, typical Archontean civilian garb.

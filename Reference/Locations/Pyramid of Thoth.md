@@ -1,0 +1,1 @@
+One of the few standing structures in the ruins of [[Arden Vul]], the Pyramid of Thoth is a marvel and landmark said to be possessed of many secrets.

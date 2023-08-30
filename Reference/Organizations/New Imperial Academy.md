@@ -1,0 +1,1 @@
+Formed in the lead-up to the [[War of Sortians and Theosophs]], The Imperial Academy today retains an air of exclusivity. Its members come from the uppermost nobility, and graduates generally expect important posts in imperial administration.

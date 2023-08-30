@@ -1,0 +1,1 @@
+This watch tower is far less ancient than the ruined city, but the upper floors have entirely collapsed, leaving only a treacherous ground floor.

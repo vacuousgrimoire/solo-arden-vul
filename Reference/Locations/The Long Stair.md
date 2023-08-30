@@ -1,0 +1,1 @@
+The Long Stair is a crumbling carved stair that ascends the 1500 feet up [[The Cliff of Arden Vul]] with a series of switchbacks. The stairs are crumbling, overgrown, and the lower portions are treacherously wet from the spray of the waterfall where the [[Swift River]] rushes over the cliff.

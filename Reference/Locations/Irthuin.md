@@ -1,0 +1,1 @@
+The western continent of the world, natively peopled by the [[Thorcinga]]. First settled by the [[Archontean]] Empire in 276 AEP, and then gradually abandoned between 2400-1900 AEP.

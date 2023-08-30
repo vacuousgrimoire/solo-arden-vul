@@ -1,0 +1,1 @@
+The largest settlement in [[Burdock's Valley]], lying beside the [[Swift River]].

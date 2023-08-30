@@ -1,0 +1,1 @@
+One of the oldest structures in [[Gosterwick]], a capacious five-story inn painted imperial yellow and owned by [[Margot the Red]]. 

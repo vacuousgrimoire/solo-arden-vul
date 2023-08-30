@@ -1,0 +1,1 @@
+The native people of [[Irthuin]]. They are ruled by hereditary thegns, and while the [[Archontean]] empire claims them as citizens, many Thorcins do not recognize the empire's authority.

@@ -1,0 +1,1 @@
+The Theosophs, historically, were the older Collegia members who resisted the democratization of the Imperial Collegia. This faction founded the [[New Imperial Academy]] in 1687 AEP. Today, the term is archaic.

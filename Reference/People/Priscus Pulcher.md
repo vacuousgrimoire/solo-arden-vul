@@ -1,0 +1,1 @@
+A controversial historical figure who sought to reform the [[Imperial Collegia]] to permit access to magical training for all. This reform led to the [[War of Sortians and Theosophs]] and Priscus' execution in 1713 AEP.

@@ -1,0 +1,1 @@
+The Azure Shield are often held to be the most chivalrous of the [[Archontean]] empire's knightly orders. Its members are organized into septs of twenty, whose stated mission is to right wrongs on the outskirts of the empire.

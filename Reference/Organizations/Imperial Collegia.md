@@ -1,0 +1,3 @@
+Most magic-users in the [[Archontean]] empire are trained by one of the seven collegia as the sole sanctioned schools of magic, save for hedge wizards and renegades. Until about 1300 years ago, [[The Order of Thoth]] was the only Imperial collegium, and admitted only well-bred Archontean nobility.
+
+Attempts to reform the collegia and democratize magical training were a major cause of the [[War of Sortians and Theosophs]] that led to the end of the golden age of the empire.

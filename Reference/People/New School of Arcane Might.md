@@ -1,0 +1,1 @@
+One of the Seven Imperial Collegia, the New School of Arcane Might is one of the younger collegia, and admits students of all origins and social classes. Its philosophies tend to attract those who seek power and domination, and the students and alumni tend to practice enchantment and necromancy.

@@ -1,0 +1,1 @@
+A small and relatively new town of around 2,000 people near [[the cliff of Arden Vul]]. It is ruled by [[Lady Alexia Basileon]] and its chief commerce is catering to adventurers: training, supplying, and re-selling the loot they bring from the ruins of [[Arden Vul]].

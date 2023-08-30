@@ -1,0 +1,1 @@
+The oldest Imperial collegium and once a elitist institution attended only by highborn nobles, today it is thoroughly progressive and known for producing well-studied magical generalists.
