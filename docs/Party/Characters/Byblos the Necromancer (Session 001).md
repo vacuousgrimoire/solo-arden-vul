@@ -83,9 +83,9 @@ None.
 |  - | - |
 | Staff | 120' (40') |
 | Hooded lantern | 120' (40') |
-| Rations x2 | 120' (40') |
-| Flask of oil | 90' (30') |
-|  | 90' (30') |
+| | 120' (40') |
+| | 90' (30') |
+| | 90' (30') |
 | | 60' (20') |
 | | 60' (20') |
 | | 30' (10') |
@@ -98,13 +98,13 @@ None.
 | Flint and tinder | 120' (40') |
 | Spellbook | 120' (40') |
 | Parchment | 120' (40') |
-| Dagger | 120' (40') |
+| Rations x2 | 120' (40') |
 | Waterskin | 120' (40') |
 | Vial of ink x2 | 120' (40') |
 | Rations x3 | 120' (40') |
 | Vial of oil x2 | 120' (40') |
 | Gold coins x25 | 90' (30') |
-| Flask of oil x1 | 90' (30') |
+| Flask of oil x2 | 90' (30') |
 | | 60' (20') |
 | | 60' (20') |
 | | 30' (10') |
