@@ -1,5 +1,6 @@
 site_name: Solo Arden Vul
 site_description: A chronicle of a solo Arden Vul campaign
+site_url: https://vacuousgrimoire.com/solo-arden-vul
 
 theme:
     name: 'material'
