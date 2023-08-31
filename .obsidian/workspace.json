@@ -13,13 +13,206 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ba833440c4b2b83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2a64794a3e7f034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sessions/003. The Long Stair, Part One.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62c56d3de158d25d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sessions/005. Making Camp in Arden Vul.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee4295afdcf929a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sessions/006. Morning in the Ruins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ad123ba69b11120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sessions/007. The Pyramid of Thoth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df6fc0c01429e4d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sessions/008. Under the Pyramid of Thoth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4445e74b0a1889c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sessions/009. Plumthorn's Price.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cd94ecf71f8e17f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sessions/010. To The Basement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b13f918b45c4b1fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sessions/011. Deeper into the Basement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d2008c4f3a15f4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sessions/012. Stashing the Loot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfad2371230d07c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sessions/013. Returning to the Basement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92ef1c2f11ba4a5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sessions/014. Coming Full Circle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "896f962d1dd709f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sessions/015. A Man, A Plan, A Pal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8db1e470450da02e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sessions/016. Execution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a000fb78b08add3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Reference/Locations/Gosterwick.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "906135bedb1ccd7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sessions/004. The Long Stair, Part Two.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -85,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "docs/Sessions/004. The Long Stair, Part Two.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "docs/Sessions/004. The Long Stair, Part Two.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "docs/Sessions/004. The Long Stair, Part Two.md"
               }
             }
           }
@@ -146,11 +339,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a9433d11058d02d",
+  "active": "906135bedb1ccd7b",
   "lastOpenFiles": [
+    "docs/Sessions/003. The Long Stair, Part One.md",
+    "docs/Reference/Locations/Long Stair guardpost.md",
+    "Long Stair guardpost.md",
+    "docs/Reference/Locations/Gosterwick.md",
+    "Images/IMG_0128.jpeg",
+    "Images/IMG_0127.jpeg",
+    "Images/IMG_0126.jpeg",
+    "Images/IMG_0125.jpeg",
+    "Images/IMG_0124.jpeg",
+    "Images/IMG_0123.jpeg",
+    "Images/IMG_0122.jpeg",
+    "Images/IMG_0121.jpeg",
+    "Images/IMG_0120.jpeg",
+    "Images/IMG_0119.jpeg",
+    "Images",
+    "Untitled",
     "docs/Sessions/002. Approach to the Long Stair.md",
+    "docs/Reference/Creatures/Mountain lion.md",
+    "docs/Sessions/004. The Long Stair, Part Two.md",
+    "docs/Reference/Creatures",
+    "docs/Reference/Organizations/Sortian.md",
+    "docs/Party/Session 003/Byblos the Necromancer.md",
+    "docs/Party/Session 001/Byblos the Necromancer.md",
+    "docs/Sessions/005. Making Camp in Arden Vul.md",
     "docs/Sessions/001. First Expedition of the Circle of Skulls.md",
-    "index.md",
-    "002. Approach to the Long Stairs.md"
+    "docs/Party/Session 003/Thuz the Dwarf.md",
+    "docs/Party/Session 003",
+    "docs/Sessions/007. The Pyramid of Thoth.md",
+    "docs/Sessions/006. Morning in the Ruins.md",
+    "docs/Sessions/017. The Mad Hermit.md",
+    "docs/Sessions/016. Execution.md",
+    "docs/Sessions/015. A Man, A Plan, A Pal.md",
+    "docs/Sessions/014. Coming Full Circle.md",
+    "docs/Sessions/013. Returning to the Basement.md",
+    "docs/Sessions/012. Stashing the Loot.md",
+    "docs/Sessions/011. Deeper into the Basement.md",
+    "docs/Sessions/010. To The Basement.md",
+    "docs/Sessions/009. Plumthorn's Price.md",
+    "docs/Sessions/008. Under the Pyramid of Thoth.md",
+    "docs/index.md",
+    "Reference/Miscellaneous",
+    "Reference/Organizations",
+    "Reference/Events",
+    "Reference/People",
+    "Reference/Locations",
+    "Reference"
   ]
 }

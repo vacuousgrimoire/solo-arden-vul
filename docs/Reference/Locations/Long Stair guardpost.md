@@ -1,0 +1,1 @@
+A plain, long-abandoned chamber at the end of a short tunnel set into [[The Cliff of Arden Vul]] above the second switchback of [[The Long Stair]]. Empty save for a small store of firewood.

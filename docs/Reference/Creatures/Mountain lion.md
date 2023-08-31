@@ -1,0 +1,1 @@
+A territorial mountain lion encountered by [[docs/Party/Session 003/Byblos the Necromancer|Byblos the Necromancer]] and [[docs/Party/Session 003/Thuz the Dwarf|Thuz the Dwarf]] on [[The Long Stair]] on 7 Basilembrios 2993. Last seen retreating up the stairs.
