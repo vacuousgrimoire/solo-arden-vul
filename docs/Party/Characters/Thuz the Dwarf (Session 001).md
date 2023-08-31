@@ -90,8 +90,8 @@
 | Flint and tinder | 120' (40') |
 | Rations x2 | 120' (40') |
 | Rations x3 | 120' (40') |
-| Bundle of firewood | 90' (30') |
-| Bundle of firewood | 90' (30') |
+| | 90' (30') |
+| | 90' (30') |
 | | 60' (20') |
 | | 60' (20') |
 | | 30' (10') |
@@ -99,4 +99,4 @@
 
 # Other Notes
 - Background - Roofer
-- Friend - [[docs/Party/Session 001/Byblos the Necromancer]]
+- Friend - [[Byblos the Necromancer (Session 001)]]

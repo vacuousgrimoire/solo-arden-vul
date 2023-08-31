@@ -1,9 +1,9 @@
 # Party Name
 Circle of Skulls
 # Hero
-[[docs/Party/Session 001/Byblos the Necromancer]]
+[[Byblos the Necromancer (Session 001)]]
 # Companion
-[[docs/Party/Session 001/Thuz the Dwarf]]
+[[Thuz the Dwarf (Session 001)]]
 # Hirelings
 None
 # Time-Consuming Behaviors
