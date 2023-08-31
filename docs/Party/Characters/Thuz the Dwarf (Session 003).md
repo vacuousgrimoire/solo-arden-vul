@@ -6,10 +6,12 @@
 | AL | Neutral |
 | Level | 2 |
 
+
 | XP | 2508 |
 | - | - |
 | Next | 4400 |
 | % | 0 |
+
 
 | Ability Scores | | 
 | - | - |
@@ -20,6 +22,7 @@
 | CON | 9 |
 | CHA | 10 |
 
+
 | Saving Throws | |
 | - | - |
 | Death | 8 |
@@ -28,6 +31,7 @@
 | Breath | 13 |
 | Spells | 12 |
 | Mod vs Magic | +0 |
+
 
 | Combat | |
 | - | - |
@@ -41,9 +45,11 @@
 | Melee modifier | +1 |
 | Missile modifier | -1 |
 
+
 | Encounters | |
 | - | - |
 | Reaction modifier | +0 |
+
 
 | Exploration | |
 | - | - |
@@ -52,11 +58,13 @@
 | Find secret doors | 1-in-6 |
 | Find room traps | 2-in-6 |
 
+
 | Movement | |
 | - | - |
 | Overland | 12 mi |
 | Exploration | 60 ft |
 | Encounter | 30 ft |
+
 # Languages
 - Archontean
 - Dwarf
@@ -65,7 +73,7 @@
 - Infravision, 60 ft
 ------
 # Unencumbering Items
-- Cursed fancy boots
+None.
 
 | Equipped Items | Base MV Rate |
 |  - | - |
@@ -78,6 +86,7 @@
 | | 60' (20') |
 | | 30' (10') |
 | | 30' (10') |
+
 
 | Packed Items | Base MV Rate |
 | - | - |

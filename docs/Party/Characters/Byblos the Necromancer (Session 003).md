@@ -6,10 +6,12 @@
 | AL | Neutral |
 | Level | 2 |
 
+
 | XP | 2808 |
 | - | - |
 | Next | 5000 |
 | % | 0 |
+
 
 | Ability Scores | | 
 | - | - |
@@ -20,6 +22,7 @@
 | CON | 12 |
 | CHA | 11 |
 
+
 | Saving Throws | |
 | - | - |
 | Death | 13 |
@@ -28,6 +31,7 @@
 | Breath | 16 |
 | Spells | 15 |
 | Mod vs Magic | +0 |
+
 
 | Combat | |
 | - | - |
@@ -41,9 +45,11 @@
 | Melee modifier | -1 |
 | Missile modifier | +0 |
 
+
 | Encounters | |
 | - | - |
 | Reaction modifier | +0 |
+
 
 | Exploration | |
 | - | - |
@@ -52,11 +58,13 @@
 | Find secret doors | 1-in-6 |
 | Find room traps | 1-in-6 |
 
+
 | Movement | |
 | - | - |
 | Overland | 12 mi |
 | Exploration | 60 ft |
 | Encounter | 30 ft |
+
 # Languages
 - Archontean
 - Mithric
@@ -67,6 +75,7 @@
 - Undead Servitor
 ------
 # Unencumbering Items
+None.
 
 | Equipped Items | Base MV Rate |
 |  - | - |
@@ -79,6 +88,7 @@
 | | 60' (20') |
 | | 30' (10') |
 | | 30' (10') |
+
 
 | Packed Items | Base MV Rate |
 | - | - |
