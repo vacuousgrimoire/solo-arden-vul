@@ -1,0 +1,1 @@
+A rebuilt ancient fortress with a roof of brilliant blue tiles that sits on a ridge overlooking [[Gosterwick]].
