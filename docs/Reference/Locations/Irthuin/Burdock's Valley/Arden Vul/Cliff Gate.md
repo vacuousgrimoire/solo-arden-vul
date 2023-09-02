@@ -1,0 +1,1 @@
+The ruins of two gate towers frame the view atop [[Long Stair]], guarding the approach to the city of [[Arden Vul]] from the [[The Cliff of Arden Vul|great cliff]].
